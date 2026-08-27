@@ -5,22 +5,6 @@ It allows administrators to register, view, search, update, and delete student r
 
 ## Features
 
-- Admin Login
-- Student Registration
-- View Student Records
-- Search Student by ID
-- Search Student by Name
-- Update Student Details
-- Delete Student Records
-- Attendance Management
-- Attendance Report
-- Student Dashboard
-- Input Validation
-- Duplicate Data Checking
-- Exception Handling
-
-## Features
-
 - [x] Admin Login
 - [x] Student Registration
 - [x] View Students
@@ -63,13 +47,6 @@ student_management_final2.py
 student_management_latest.py
 student_management_latest_final.py
 
-## Project structure
-
-Student-Management-System/
-│
-├── student_management.py
-├── student_management.db
-└── README.md
 
 ## Installation
 
