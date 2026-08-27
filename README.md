@@ -76,13 +76,13 @@ Student-Management-System/
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/05Vshresta/Student_managent_system.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd Student-Management-System
+cd Student_managent_system
 ```
 
 3. Make sure Python is installed on your system.
